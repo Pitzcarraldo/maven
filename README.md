@@ -1,4 +1,2 @@
-mustache.java-spring-webmvc-maven-repo
+Pitzcarraldo's Maven Repository
 ======================================
-
-mustache.java-spring-webmvc-maven-repo
