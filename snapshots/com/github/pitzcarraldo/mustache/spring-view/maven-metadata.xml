@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.pitzcarraldo.mustache</groupId>
+  <artifactId>spring-view</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140318235903</lastUpdated>
+  </versioning>
+</metadata>
