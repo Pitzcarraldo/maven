@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.trimou</groupId>
+  <artifactId>trimou-extension-spring</artifactId>
+  <versioning>
+    <versions>
+      <version>1.5.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140413095130</lastUpdated>
+  </versioning>
+</metadata>

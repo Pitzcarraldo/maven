@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.trimou</groupId>
+  <artifactId>trimou-extension-gson</artifactId>
+  <versioning>
+    <versions>
+      <version>1.5.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140413095128</lastUpdated>
+  </versioning>
+</metadata>

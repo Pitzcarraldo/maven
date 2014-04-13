@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.trimou</groupId>
+  <artifactId>trimou-core</artifactId>
+  <version>1.5.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140413.095122</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140413095122</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.5.3-20140413.095122-1</value>
+        <updated>20140413095122</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.5.3-20140413.095122-1</value>
+        <updated>20140413095122</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
