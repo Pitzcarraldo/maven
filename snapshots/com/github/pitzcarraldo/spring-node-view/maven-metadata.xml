@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.pitzcarraldo</groupId>
+  <artifactId>spring-node-view</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.osx-SNAPSHOT</version>
+      <version>0.1.windows-SNAPSHOT</version>
+      <version>0.1.linux-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170117082302</lastUpdated>
+  </versioning>
+</metadata>
