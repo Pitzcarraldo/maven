@@ -2,12 +2,12 @@
 <metadata>
   <groupId>com.github.pitzcarraldo</groupId>
   <artifactId>spring-node-view</artifactId>
+  <version>0.1.0.linux-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.1.0.windows-SNAPSHOT</version>
-      <version>0.1.0.osx-SNAPSHOT</version>
-      <version>0.1.0.linux-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20170118.004909</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20170118004909</lastUpdated>
   </versioning>
 </metadata>
